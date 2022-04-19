@@ -3,19 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2685" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/buttonback.xml" value="0.290625" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/duo_menu.xml" value="0.2685" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_add.xml" value="0.290625" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_multiply.xml" value="0.22962962962962963" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_saved_calc_btn.xml" value="0.290625" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_baseline_subtract.xml" value="0.2685" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.290625" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_outline_backspace.xml" value="0.2685" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/drawable/menu_circle.xml" value="0.1375" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_setting.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/buttonpress.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/checker.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/fragment_calculator.xml" value="0.264" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/fragment_exchange_rate.xml" value="0.264" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/fragment_unit_converter.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/motion_layout.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/motionexchange.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/motionlayoutex.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/layout/sample_recycle_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/menu/app_bar_menu.xml" value="0.6" />
         <entry key="..\:/Users/ajeet/AndroidStudioProjects/Calculator/app/src/main/res/xml/scene_26.xml" value="0.27447916666666666" />
       </map>
     </option>

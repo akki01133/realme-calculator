@@ -42,7 +42,6 @@
             android:textColor="#717171"
             android:textSize="25sp" />
 
-
     </LinearLayout>
 
     <ImageView
@@ -165,7 +164,7 @@
                 android:gravity="center"
                 android:tag="pow"
                 android:text="^"
-                android:textColor="@color/white"
+                android:textColor="#DF939393"
                 android:textSize="23dp" />
 
             <TextView
@@ -176,7 +175,7 @@
                 android:gravity="center"
                 android:tag="sqroot"
                 android:text="√"
-                android:textColor="@color/white"
+                android:textColor="#DF939393"
                 android:textSize="23dp" />
 
             <TextView
@@ -185,7 +184,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="0.92"
                 android:gravity="center"
-                android:tag="fact"
+                android:tag="!"
                 android:text="!"
                 android:textColor="@color/white"
                 android:textSize="23dp" />
@@ -203,7 +202,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1.18"
                 android:gravity="center"
-                android:tag="pie"
+                android:tag="π"
                 android:text="π"
                 android:textColor="@color/white"
                 android:textSize="20dp" />
@@ -227,7 +226,7 @@
                 android:gravity="center"
                 android:tag="inv"
                 android:text="inv"
-                android:textColor="@color/white"
+                android:textColor="#DF939393"
                 android:textSize="20dp" />
 
             <TextView
@@ -235,7 +234,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="0.9"
-                android:background="@drawable/buttonback"
                 android:gravity="center"
                 android:tag="rad"
                 android:text="RAD"
@@ -250,6 +248,7 @@
                 android:gravity="center"
                 android:tag="deg"
                 android:text="DEG"
+                android:background="@drawable/buttonback"
                 android:textColor="@color/white"
                 android:textSize="15dp" />
 
@@ -287,7 +286,6 @@
             android:layout_weight="1"
             android:orientation="horizontal">
 
-
             <TextView
                 android:id="@+id/clear_exp"
                 android:layout_width="wrap_content"
@@ -310,7 +308,6 @@
                 android:textColor="@color/arizonag"
                 android:textSize="38dp" />
 
-
             <ImageView
                 android:id="@+id/backspace"
                 android:layout_width="wrap_content"
@@ -318,21 +315,18 @@
                 android:layout_weight="1.1"
                 android:scaleType="center"
                 android:src="@drawable/ic_outline_backspace"
-                android:tag="B"></ImageView>
-
+                android:tag="B" />
 
             <TextView
-                android:id="@+id/devide"
+                android:id="@+id/divide"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1.4"
                 android:gravity="center"
-                android:tag="/"
-                android:text="/"
-
+                android:tag="÷"
+                android:text="÷"
                 android:textColor="@color/arizonag"
                 android:textSize="38dp" />
-
 
         </LinearLayout>
 
@@ -555,20 +549,5 @@
         </LinearLayout>
     </LinearLayout>
 
-
-    <LinearLayout
-        android:id="@+id/linearLayout4"
-        android:layout_width="1dp"
-        android:layout_height="330dp"
-        android:translationX="-5dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:listitem="@layout/sample_recycle_layout">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/past_calculation_view"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </LinearLayout>
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
